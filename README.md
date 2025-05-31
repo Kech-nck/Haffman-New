@@ -1,1 +1,2 @@
-# Haffman-New
+# Haffman
+Алгоритм Хаффмана

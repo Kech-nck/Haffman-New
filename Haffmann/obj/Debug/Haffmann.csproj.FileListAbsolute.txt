@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.exe
+C:\Users\user\source\repos\Hamming\Hamming\bin\Debug\Hamming.pdb
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Haffmann.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.Form1.resources
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Haffmann.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Haffmann.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.exe
+C:\Users\user\source\repos\Hamming\Hamming\obj\Debug\Hamming.pdb
+C:\Users\user\source\repos\Haffmann\Haffmann\bin\Debug\Hamming.exe.config
+C:\Users\user\source\repos\Haffmann\Haffmann\bin\Debug\Hamming.exe
+C:\Users\user\source\repos\Haffmann\Haffmann\bin\Debug\Hamming.pdb
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Haffmann.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Hamming.Form1.resources
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Haffmann.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Haffmann.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Hamming.exe
+C:\Users\user\source\repos\Haffmann\Haffmann\obj\Debug\Hamming.pdb
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\bin\Debug\Hamming.exe.config
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\bin\Debug\Hamming.exe
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\bin\Debug\Hamming.pdb
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Haffmann.csproj.AssemblyReference.cache
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Hamming.Form1.resources
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Hamming.Properties.Resources.resources
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Haffmann.csproj.GenerateResource.cache
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Haffmann.csproj.CoreCompileInputs.cache
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Hamming.exe
+C:\compile_temp\3523П1ИН1\Кечкин Алексей\Haffman-master\Haffmann\obj\Debug\Hamming.pdb
